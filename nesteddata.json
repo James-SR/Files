@@ -1,0 +1,1685 @@
+{
+  "metadata": {
+    "columnGrouping": [
+      "metricType",
+      "period",
+      "valueType"
+    ],
+    "rowGrouping": [
+      "area"
+    ]
+  },
+  "columns": [
+    {
+      "metricType": {
+        "identifier": "3281",
+        "label": "Total population",
+        "altLabel": "Total population",
+        "isSummary": false
+      },
+      "period": {
+        "identifier": "cal_2017",
+        "label": "2017",
+        "altLabel": "2017",
+        "isSummary": false
+      },
+      "valueType": {
+        "identifier": "raw",
+        "label": "Raw value",
+        "isSummary": false
+      }
+    },
+    {
+      "metricType": {
+        "identifier": "5046",
+        "label": "Total female population",
+        "altLabel": "Total female population",
+        "isSummary": false
+      },
+      "period": {
+        "identifier": "cal_2017",
+        "label": "2017",
+        "altLabel": "2017",
+        "isSummary": false
+      },
+      "valueType": {
+        "identifier": "raw",
+        "label": "Raw value",
+        "isSummary": false
+      }
+    },
+    {
+      "metricType": {
+        "identifier": "4955",
+        "label": "Total male population",
+        "altLabel": "Total male population",
+        "isSummary": false
+      },
+      "period": {
+        "identifier": "cal_2017",
+        "label": "2017",
+        "altLabel": "2017",
+        "isSummary": false
+      },
+      "valueType": {
+        "identifier": "raw",
+        "label": "Raw value",
+        "isSummary": false
+      }
+    }
+  ],
+  "rows": [
+    {
+      "area": {
+        "identifier": "Ward18-E05008610",
+        "label": "Alderley Edge",
+        "altLabel": "Alderley Edge",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 5033.0,
+          "value": 5033.0,
+          "formatted": "5,033",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2628.0,
+          "value": 2628.0,
+          "formatted": "2,628",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2405.0,
+          "value": 2405.0,
+          "formatted": "2,405",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008611",
+        "label": "Alsager",
+        "altLabel": "Alsager",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 11839.0,
+          "value": 11839.0,
+          "formatted": "11,839",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 6109.0,
+          "value": 6109.0,
+          "formatted": "6,109",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 5730.0,
+          "value": 5730.0,
+          "formatted": "5,730",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008612",
+        "label": "Audlem",
+        "altLabel": "Audlem",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 5412.0,
+          "value": 5412.0,
+          "formatted": "5,412",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2733.0,
+          "value": 2733.0,
+          "formatted": "2,733",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2679.0,
+          "value": 2679.0,
+          "formatted": "2,679",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008613",
+        "label": "Bollington",
+        "altLabel": "Bollington",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 8599.0,
+          "value": 8599.0,
+          "formatted": "8,599",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4359.0,
+          "value": 4359.0,
+          "formatted": "4,359",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4240.0,
+          "value": 4240.0,
+          "formatted": "4,240",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008614",
+        "label": "Brereton Rural",
+        "altLabel": "Brereton Rural",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 5393.0,
+          "value": 5393.0,
+          "formatted": "5,393",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2692.0,
+          "value": 2692.0,
+          "formatted": "2,692",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2701.0,
+          "value": 2701.0,
+          "formatted": "2,701",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008615",
+        "label": "Broken Cross and Upton",
+        "altLabel": "Broken Cross and Upton",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 8937.0,
+          "value": 8937.0,
+          "formatted": "8,937",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4660.0,
+          "value": 4660.0,
+          "formatted": "4,660",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4277.0,
+          "value": 4277.0,
+          "formatted": "4,277",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008616",
+        "label": "Bunbury",
+        "altLabel": "Bunbury",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 5156.0,
+          "value": 5156.0,
+          "formatted": "5,156",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2608.0,
+          "value": 2608.0,
+          "formatted": "2,608",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2548.0,
+          "value": 2548.0,
+          "formatted": "2,548",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008617",
+        "label": "Chelford",
+        "altLabel": "Chelford",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 3905.0,
+          "value": 3905.0,
+          "formatted": "3,905",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2010.0,
+          "value": 2010.0,
+          "formatted": "2,010",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 1895.0,
+          "value": 1895.0,
+          "formatted": "1,895",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008618",
+        "label": "Congleton East",
+        "altLabel": "Congleton East",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 13406.0,
+          "value": 13406.0,
+          "formatted": "13,406",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 6827.0,
+          "value": 6827.0,
+          "formatted": "6,827",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 6579.0,
+          "value": 6579.0,
+          "formatted": "6,579",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008619",
+        "label": "Congleton West",
+        "altLabel": "Congleton West",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 13116.0,
+          "value": 13116.0,
+          "formatted": "13,116",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 6688.0,
+          "value": 6688.0,
+          "formatted": "6,688",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 6428.0,
+          "value": 6428.0,
+          "formatted": "6,428",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008620",
+        "label": "Crewe Central",
+        "altLabel": "Crewe Central",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 6587.0,
+          "value": 6587.0,
+          "formatted": "6,587",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 3269.0,
+          "value": 3269.0,
+          "formatted": "3,269",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 3318.0,
+          "value": 3318.0,
+          "formatted": "3,318",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008621",
+        "label": "Crewe East",
+        "altLabel": "Crewe East",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 15250.0,
+          "value": 15250.0,
+          "formatted": "15,250",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 7708.0,
+          "value": 7708.0,
+          "formatted": "7,708",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 7542.0,
+          "value": 7542.0,
+          "formatted": "7,542",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008622",
+        "label": "Crewe North",
+        "altLabel": "Crewe North",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4737.0,
+          "value": 4737.0,
+          "formatted": "4,737",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2393.0,
+          "value": 2393.0,
+          "formatted": "2,393",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2344.0,
+          "value": 2344.0,
+          "formatted": "2,344",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008624",
+        "label": "Crewe South",
+        "altLabel": "Crewe South",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 11999.0,
+          "value": 11999.0,
+          "formatted": "11,999",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 5690.0,
+          "value": 5690.0,
+          "formatted": "5,690",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 6309.0,
+          "value": 6309.0,
+          "formatted": "6,309",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008623",
+        "label": "Crewe St Barnabas",
+        "altLabel": "Crewe St Barnabas",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 5865.0,
+          "value": 5865.0,
+          "formatted": "5,865",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 3015.0,
+          "value": 3015.0,
+          "formatted": "3,015",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2850.0,
+          "value": 2850.0,
+          "formatted": "2,850",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008625",
+        "label": "Crewe West",
+        "altLabel": "Crewe West",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 10721.0,
+          "value": 10721.0,
+          "formatted": "10,721",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 5455.0,
+          "value": 5455.0,
+          "formatted": "5,455",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 5266.0,
+          "value": 5266.0,
+          "formatted": "5,266",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008626",
+        "label": "Dane Valley",
+        "altLabel": "Dane Valley",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 9350.0,
+          "value": 9350.0,
+          "formatted": "9,350",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4833.0,
+          "value": 4833.0,
+          "formatted": "4,833",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4517.0,
+          "value": 4517.0,
+          "formatted": "4,517",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008627",
+        "label": "Disley",
+        "altLabel": "Disley",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4573.0,
+          "value": 4573.0,
+          "formatted": "4,573",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2323.0,
+          "value": 2323.0,
+          "formatted": "2,323",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2250.0,
+          "value": 2250.0,
+          "formatted": "2,250",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008628",
+        "label": "Gawsworth",
+        "altLabel": "Gawsworth",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 3919.0,
+          "value": 3919.0,
+          "formatted": "3,919",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 1982.0,
+          "value": 1982.0,
+          "formatted": "1,982",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 1937.0,
+          "value": 1937.0,
+          "formatted": "1,937",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008629",
+        "label": "Handforth",
+        "altLabel": "Handforth",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 9573.0,
+          "value": 9573.0,
+          "formatted": "9,573",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4852.0,
+          "value": 4852.0,
+          "formatted": "4,852",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4721.0,
+          "value": 4721.0,
+          "formatted": "4,721",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008630",
+        "label": "Haslington",
+        "altLabel": "Haslington",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 8022.0,
+          "value": 8022.0,
+          "formatted": "8,022",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4156.0,
+          "value": 4156.0,
+          "formatted": "4,156",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 3866.0,
+          "value": 3866.0,
+          "formatted": "3,866",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008631",
+        "label": "High Legh",
+        "altLabel": "High Legh",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4408.0,
+          "value": 4408.0,
+          "formatted": "4,408",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2256.0,
+          "value": 2256.0,
+          "formatted": "2,256",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2152.0,
+          "value": 2152.0,
+          "formatted": "2,152",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008632",
+        "label": "Knutsford",
+        "altLabel": "Knutsford",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 13286.0,
+          "value": 13286.0,
+          "formatted": "13,286",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 6873.0,
+          "value": 6873.0,
+          "formatted": "6,873",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 6413.0,
+          "value": 6413.0,
+          "formatted": "6,413",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008633",
+        "label": "Leighton",
+        "altLabel": "Leighton",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 5245.0,
+          "value": 5245.0,
+          "formatted": "5,245",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2586.0,
+          "value": 2586.0,
+          "formatted": "2,586",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2659.0,
+          "value": 2659.0,
+          "formatted": "2,659",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008634",
+        "label": "Macclesfield Central",
+        "altLabel": "Macclesfield Central",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 9288.0,
+          "value": 9288.0,
+          "formatted": "9,288",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4673.0,
+          "value": 4673.0,
+          "formatted": "4,673",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4615.0,
+          "value": 4615.0,
+          "formatted": "4,615",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008635",
+        "label": "Macclesfield East",
+        "altLabel": "Macclesfield East",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4427.0,
+          "value": 4427.0,
+          "formatted": "4,427",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2263.0,
+          "value": 2263.0,
+          "formatted": "2,263",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2164.0,
+          "value": 2164.0,
+          "formatted": "2,164",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008636",
+        "label": "Macclesfield Hurdsfield",
+        "altLabel": "Macclesfield Hurdsfield",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4448.0,
+          "value": 4448.0,
+          "formatted": "4,448",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2234.0,
+          "value": 2234.0,
+          "formatted": "2,234",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2214.0,
+          "value": 2214.0,
+          "formatted": "2,214",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008637",
+        "label": "Macclesfield South",
+        "altLabel": "Macclesfield South",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 8466.0,
+          "value": 8466.0,
+          "formatted": "8,466",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4338.0,
+          "value": 4338.0,
+          "formatted": "4,338",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4128.0,
+          "value": 4128.0,
+          "formatted": "4,128",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008638",
+        "label": "Macclesfield Tytherington",
+        "altLabel": "Macclesfield Tytherington",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 8664.0,
+          "value": 8664.0,
+          "formatted": "8,664",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4374.0,
+          "value": 4374.0,
+          "formatted": "4,374",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4290.0,
+          "value": 4290.0,
+          "formatted": "4,290",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008639",
+        "label": "Macclesfield West and Ivy",
+        "altLabel": "Macclesfield West and Ivy",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 7965.0,
+          "value": 7965.0,
+          "formatted": "7,965",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4113.0,
+          "value": 4113.0,
+          "formatted": "4,113",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 3852.0,
+          "value": 3852.0,
+          "formatted": "3,852",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008640",
+        "label": "Middlewich",
+        "altLabel": "Middlewich",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 14138.0,
+          "value": 14138.0,
+          "formatted": "14,138",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 7307.0,
+          "value": 7307.0,
+          "formatted": "7,307",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 6831.0,
+          "value": 6831.0,
+          "formatted": "6,831",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008641",
+        "label": "Mobberley",
+        "altLabel": "Mobberley",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4666.0,
+          "value": 4666.0,
+          "formatted": "4,666",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2400.0,
+          "value": 2400.0,
+          "formatted": "2,400",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2266.0,
+          "value": 2266.0,
+          "formatted": "2,266",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008642",
+        "label": "Nantwich North and West",
+        "altLabel": "Nantwich North and West",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 8698.0,
+          "value": 8698.0,
+          "formatted": "8,698",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4487.0,
+          "value": 4487.0,
+          "formatted": "4,487",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4211.0,
+          "value": 4211.0,
+          "formatted": "4,211",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008643",
+        "label": "Nantwich South and Stapeley",
+        "altLabel": "Nantwich South and Stapeley",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 9485.0,
+          "value": 9485.0,
+          "formatted": "9,485",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4931.0,
+          "value": 4931.0,
+          "formatted": "4,931",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4554.0,
+          "value": 4554.0,
+          "formatted": "4,554",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008644",
+        "label": "Odd Rode",
+        "altLabel": "Odd Rode",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 8301.0,
+          "value": 8301.0,
+          "formatted": "8,301",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4227.0,
+          "value": 4227.0,
+          "formatted": "4,227",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4074.0,
+          "value": 4074.0,
+          "formatted": "4,074",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008645",
+        "label": "Poynton East and Pott Shrigley",
+        "altLabel": "Poynton East and Pott Shrigley",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 7589.0,
+          "value": 7589.0,
+          "formatted": "7,589",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 3921.0,
+          "value": 3921.0,
+          "formatted": "3,921",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 3668.0,
+          "value": 3668.0,
+          "formatted": "3,668",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008646",
+        "label": "Poynton West and Adlington",
+        "altLabel": "Poynton West and Adlington",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 8313.0,
+          "value": 8313.0,
+          "formatted": "8,313",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4398.0,
+          "value": 4398.0,
+          "formatted": "4,398",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 3915.0,
+          "value": 3915.0,
+          "formatted": "3,915",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008647",
+        "label": "Prestbury",
+        "altLabel": "Prestbury",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4338.0,
+          "value": 4338.0,
+          "formatted": "4,338",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2239.0,
+          "value": 2239.0,
+          "formatted": "2,239",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2099.0,
+          "value": 2099.0,
+          "formatted": "2,099",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008648",
+        "label": "Sandbach Elworth",
+        "altLabel": "Sandbach Elworth",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 5146.0,
+          "value": 5146.0,
+          "formatted": "5,146",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2604.0,
+          "value": 2604.0,
+          "formatted": "2,604",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2542.0,
+          "value": 2542.0,
+          "formatted": "2,542",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008649",
+        "label": "Sandbach Ettiley Heath and Wheelock",
+        "altLabel": "Sandbach Ettiley Heath and Wheelock",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4998.0,
+          "value": 4998.0,
+          "formatted": "4,998",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2499.0,
+          "value": 2499.0,
+          "formatted": "2,499",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2499.0,
+          "value": 2499.0,
+          "formatted": "2,499",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008650",
+        "label": "Sandbach Heath and East",
+        "altLabel": "Sandbach Heath and East",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4398.0,
+          "value": 4398.0,
+          "formatted": "4,398",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2267.0,
+          "value": 2267.0,
+          "formatted": "2,267",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2131.0,
+          "value": 2131.0,
+          "formatted": "2,131",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008651",
+        "label": "Sandbach Town",
+        "altLabel": "Sandbach Town",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4940.0,
+          "value": 4940.0,
+          "formatted": "4,940",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2563.0,
+          "value": 2563.0,
+          "formatted": "2,563",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2377.0,
+          "value": 2377.0,
+          "formatted": "2,377",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008652",
+        "label": "Shavington",
+        "altLabel": "Shavington",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4162.0,
+          "value": 4162.0,
+          "formatted": "4,162",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2190.0,
+          "value": 2190.0,
+          "formatted": "2,190",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 1972.0,
+          "value": 1972.0,
+          "formatted": "1,972",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008653",
+        "label": "Sutton",
+        "altLabel": "Sutton",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4166.0,
+          "value": 4166.0,
+          "formatted": "4,166",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2145.0,
+          "value": 2145.0,
+          "formatted": "2,145",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2021.0,
+          "value": 2021.0,
+          "formatted": "2,021",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008654",
+        "label": "Willaston and Rope",
+        "altLabel": "Willaston and Rope",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4782.0,
+          "value": 4782.0,
+          "formatted": "4,782",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2490.0,
+          "value": 2490.0,
+          "formatted": "2,490",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2292.0,
+          "value": 2292.0,
+          "formatted": "2,292",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008655",
+        "label": "Wilmslow Dean Row",
+        "altLabel": "Wilmslow Dean Row",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4619.0,
+          "value": 4619.0,
+          "formatted": "4,619",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2361.0,
+          "value": 2361.0,
+          "formatted": "2,361",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2258.0,
+          "value": 2258.0,
+          "formatted": "2,258",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008656",
+        "label": "Wilmslow East",
+        "altLabel": "Wilmslow East",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4429.0,
+          "value": 4429.0,
+          "formatted": "4,429",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2282.0,
+          "value": 2282.0,
+          "formatted": "2,282",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2147.0,
+          "value": 2147.0,
+          "formatted": "2,147",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008657",
+        "label": "Wilmslow Lacey Green",
+        "altLabel": "Wilmslow Lacey Green",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4875.0,
+          "value": 4875.0,
+          "formatted": "4,875",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2638.0,
+          "value": 2638.0,
+          "formatted": "2,638",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2237.0,
+          "value": 2237.0,
+          "formatted": "2,237",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008658",
+        "label": "Wilmslow West and Chorley",
+        "altLabel": "Wilmslow West and Chorley",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 10011.0,
+          "value": 10011.0,
+          "formatted": "10,011",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 5157.0,
+          "value": 5157.0,
+          "formatted": "5,157",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4854.0,
+          "value": 4854.0,
+          "formatted": "4,854",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008659",
+        "label": "Wistaston",
+        "altLabel": "Wistaston",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 8908.0,
+          "value": 8908.0,
+          "formatted": "8,908",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4482.0,
+          "value": 4482.0,
+          "formatted": "4,482",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 4426.0,
+          "value": 4426.0,
+          "formatted": "4,426",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008660",
+        "label": "Wrenbury",
+        "altLabel": "Wrenbury",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 4628.0,
+          "value": 4628.0,
+          "formatted": "4,628",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2310.0,
+          "value": 2310.0,
+          "formatted": "2,310",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2318.0,
+          "value": 2318.0,
+          "formatted": "2,318",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    },
+    {
+      "area": {
+        "identifier": "Ward18-E05008661",
+        "label": "Wybunbury",
+        "altLabel": "Wybunbury",
+        "isSummary": false
+      },
+      "values": [
+        {
+          "source": 5667.0,
+          "value": 5667.0,
+          "formatted": "5,667",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2825.0,
+          "value": 2825.0,
+          "formatted": "2,825",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        },
+        {
+          "source": 2842.0,
+          "value": 2842.0,
+          "formatted": "2,842",
+          "format": "#,##0",
+          "publicationStatus": "Published"
+        }
+      ]
+    }
+  ]
+}
